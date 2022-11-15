@@ -152,3 +152,7 @@ a:hover {
 a:visited {
   color: #c47900;
 }
+
+.invalid {
+  border-color: #c70c0c;
+}
